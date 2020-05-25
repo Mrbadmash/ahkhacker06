@@ -40,10 +40,10 @@ logo = """
    Ijaz Afridi
    ▄︻̷̿┻̿═━一
    THE ANONYMOUS AHKHACKER 
-   THE LEGEND 𝒜𝒻𝓇𝒾𝒹𝒾
-   THE GAME CHANGER 𝒜𝒻𝓇𝒾𝒹𝒾
+   THE LEGEND AFRIDI
+   THE GAME CHANGER AFRIDI
    Pakistani hackers
-   𝒜𝒻𝓇𝒾𝒹𝒾 ▄︻̷̿┻̿═━一
+   AFRIDI ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mIjaz Afridi
 \033[1;96mGang    \033[1;93m: \033[1;92mBadmash Ahk
