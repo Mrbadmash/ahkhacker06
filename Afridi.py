@@ -38,12 +38,12 @@ def jalan(z):
 ##### LOGO #####
 logo = """
    Ijaz Afridi
-   ▄︻̷̿┻̿═━一
+   
    THE ANONYMOUS AHKHACKER 
    THE LEGEND AFRIDI
    THE GAME CHANGER AFRIDI
    Pakistani hackers
-   AFRIDI ▄︻̷̿┻̿═━一
+   AFRIDI 
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mIjaz Afridi
 \033[1;96mGang    \033[1;93m: \033[1;92mBadmash Ahk
